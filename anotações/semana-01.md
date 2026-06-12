@@ -14,13 +14,17 @@ Use este arquivo para registrar suas anotações de estudo, códigos, resumos de
 
 ### 🔹 Dia 1: Modelagem Analítica (OLAP) e Conceito de Star Schema
 * **O que estudei hoje:**
-  - *Escreva aqui o que você compreendeu sobre OLAP vs OLTP.*
+  - *Estudei modelagem de tabelas, tabela fato e tabela dimensão, tabela dimensão são as tabelas que trazem os dados descritivos para a nossa análise exemplo dados do cliente, do produto, locais, horários, os insumos que são utilizados para que a atividade aconteça, já a tabela fato nos traz o resultado das atividades, os números, exemplo: vendas, valores, totais e as chaves estrangeiras que é a conexão da tabela fato com as tabelas dimensões
+o Conceito OLAP significa processamento analítico online das informações, geração de relatórios com os dados armazenados no DW , OLTP sistema que registra informações no DW  *
 * **Prática/Anotações:**
   - *Resuma as principais diferenças e desenhe mentalmente (ou descreva) um Star Schema.*
+tabela fato - tabelas dimensões -
+
 * **Dificuldades & Dúvidas:**
   - *Ficou alguma dúvida sobre Tabelas Fato e Dimensão?*
 * **Links interessantes do dia:**
   - *Cole aqui os artigos lidos.*
+- [O que é Modelagem Dimensional? (Data Warehouse Info)](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/) - A metodologia clássica de Ralph Kimball.
 
 ### 🔹 Dia 2: Modelagem Dimensional em Detalhes
 * **O que estudei hoje:**

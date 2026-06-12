@@ -11,6 +11,7 @@ Este arquivo reúne todos os links, leituras recomendadas, cursos gratuitos e de
   - [Star Schema vs. Snowflake Schema (Towards Data Science)](https://towardsdatascience.com/understanding-star-schema-vs-snowflake-schema-ea118df283b0) - Artigo explicativo detalhando a diferença de performance e design.
   - [O que é Modelagem Dimensional? (Data Warehouse Info)](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/) - A metodologia clássica de Ralph Kimball.
 * **Manipulação de Dados com Python:**
+
   - [Documentação Oficial do Pandas: Getting Started](https://pandas.pydata.org/docs/getting_started/index.html) - Guia passo a passo oficial para entender a estrutura dos DataFrames.
   - [PySpark Architecture & Core Concepts](https://spark.apache.org/docs/latest/api/python/index.html) - Introdução rápida ao processamento distribuído com Apache Spark.
 
