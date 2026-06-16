@@ -7,9 +7,9 @@ Utilize este arquivo para acompanhar o seu progresso diário. Você pode marcar 
 ## 🧭 Semana 1: Modelagem de Dados e Python para Manipulação
 > **Foco:** Entender como estruturar tabelas para análise e como manipular dados via código.
 
-- [ ] **Dias 1 a 3: Introdução à Modelagem Analítica (OLAP)**
-  - [ ] Entender a diferença essencial entre bancos de dados transacionais (OLTP) e analíticos (OLAP).
-  - [ ] Estudar o conceito de **Star Schema** (Tabelas Fato e Tabelas Dimensão).
+- [ x] **Dias 1 a 3: Introdução à Modelagem Analítica (OLAP)**
+  - [ x] Entender a diferença essencial entre bancos de dados transacionais (OLTP) e analíticos (OLAP).
+  - [ x] Estudar o conceito de **Star Schema** (Tabelas Fato e Tabelas Dimensão).
   - [ ] Compreender por que a estruturação dimensional de dados economiza poder de processamento e custo na nuvem.
 - [ ] **Dias 4 a 7: Python Focado em Dados**
   - [ ] Dominar o básico da biblioteca **Pandas** (leitura de CSVs/JSONs, filtros, joins e agregações).
