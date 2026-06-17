@@ -1,0 +1,101 @@
+"id_entrega","tempo_entrega","status_entrega","valor_frete","custo_entrega","distancia_km","id_cliente","id_produto","id_motorista","id_tempo","id_regiao","id_regiao-2","cidade","estado","pais","id_produto-2","categoria","peso","tipo","id_tempo-2","dia","mes","trimestre","ano","id_motorista-2","nome","idade","experiencia"
+55,3,"Entregue","100.00","80.00","15.00",511,1202,1502,1,1,1,"Almeida","Bahia","Catar",1202,"Alimentos","405.16","Não Perecível",1,27,9,"3",2020,1502,"Cecilia Montenegro",28,37
+5,3,"Entregue","100.00","80.00","15.00",511,1202,1502,1,1,1,"Almeida","Bahia","Catar",1202,"Alimentos","405.16","Não Perecível",1,27,9,"3",2020,1502,"Cecilia Montenegro",28,37
+56,3,"Entregue","100.00","80.00","15.00",512,1,1503,2,2,2,"Guerra","Alagoas","Israel",1,"Brinquedos","463.39","Perecível",2,10,7,"3",2023,1503,"Lorenzo Vargas",59,27
+6,3,"Entregue","100.00","80.00","15.00",512,1,1503,2,2,2,"Guerra","Alagoas","Israel",1,"Brinquedos","463.39","Perecível",2,10,7,"3",2023,1503,"Lorenzo Vargas",59,27
+7,3,"Entregue","100.00","80.00","15.00",513,2,1504,3,3,3,"Gonçalves do Sul","Amapá","México",2,"Eletrônicos","339.23","Não Perecível",3,17,3,"1",2021,1504,"Sr. Enzo Gabriel Teixeira",40,12
+57,3,"Entregue","100.00","80.00","15.00",513,2,1504,3,3,3,"Gonçalves do Sul","Amapá","México",2,"Eletrônicos","339.23","Não Perecível",3,17,3,"1",2021,1504,"Sr. Enzo Gabriel Teixeira",40,12
+8,3,"Entregue","100.00","80.00","15.00",514,3,2,4,4,4,"Fogaça dos Dourados","Paraíba","Roménia",3,"Alimentos","293.53","Não Perecível",4,7,12,"4",2021,2,"Vitor Gabriel Garcia",23,16
+58,3,"Entregue","100.00","80.00","15.00",514,3,2,4,4,4,"Fogaça dos Dourados","Paraíba","Roménia",3,"Alimentos","293.53","Não Perecível",4,7,12,"4",2021,2,"Vitor Gabriel Garcia",23,16
+9,3,"Entregue","100.00","80.00","15.00",515,4,3,5,5,5,"da Luz","Rio Grande do Norte","Guernsey",4,"Roupas","211.66","Não Perecível",5,19,1,"1",2024,3,"Eloah da Cruz",34,11
+59,3,"Entregue","100.00","80.00","15.00",515,4,3,5,5,5,"da Luz","Rio Grande do Norte","Guernsey",4,"Roupas","211.66","Não Perecível",5,19,1,"1",2024,3,"Eloah da Cruz",34,11
+10,3,"Entregue","100.00","80.00","15.00",516,5,4,6,6,6,"Almeida Verde","São Paulo","Jersey",5,"Brinquedos","418.75","Perecível",6,1,6,"2",2024,4,"Davi Lucas Siqueira",19,21
+60,3,"Entregue","100.00","80.00","15.00",516,5,4,6,6,6,"Almeida Verde","São Paulo","Jersey",5,"Brinquedos","418.75","Perecível",6,1,6,"2",2024,4,"Davi Lucas Siqueira",19,21
+11,3,"Entregue","100.00","80.00","15.00",517,6,5,7,7,7,"Correia do Oeste","Distrito Federal","Aruba",6,"Eletrônicos","552.88","Não Perecível",7,20,6,"2",2024,5,"Sra. Sabrina Cavalcanti",44,6
+61,3,"Entregue","100.00","80.00","15.00",517,6,5,7,7,7,"Correia do Oeste","Distrito Federal","Aruba",6,"Eletrônicos","552.88","Não Perecível",7,20,6,"2",2024,5,"Sra. Sabrina Cavalcanti",44,6
+12,3,"Entregue","100.00","80.00","15.00",518,7,6,8,8,8,"Caldeira do Campo","Piauí","Senegal",7,"Eletrônicos","686.73","Não Perecível",8,3,11,"4",2020,6,"Daniela Azevedo",44,0
+62,3,"Entregue","100.00","80.00","15.00",518,7,6,8,8,8,"Caldeira do Campo","Piauí","Senegal",7,"Eletrônicos","686.73","Não Perecível",8,3,11,"4",2020,6,"Daniela Azevedo",44,0
+13,3,"Entregue","100.00","80.00","15.00",519,8,7,9,9,9,"Cunha da Serra","Pernambuco","Ilhas Virgens Britânicas",8,"Alimentos","961.68","Não Perecível",9,11,1,"1",2022,7,"Daniela Câmara",53,33
+63,3,"Entregue","100.00","80.00","15.00",519,8,7,9,9,9,"Cunha da Serra","Pernambuco","Ilhas Virgens Britânicas",8,"Alimentos","961.68","Não Perecível",9,11,1,"1",2022,7,"Daniela Câmara",53,33
+64,3,"Entregue","100.00","80.00","15.00",520,9,8,10,10,10,"Cardoso","Roraima","Brasil",9,"Brinquedos","791.66","Perecível",10,21,10,"4",2021,8,"Isabel Marques",25,20
+14,3,"Entregue","100.00","80.00","15.00",520,9,8,10,10,10,"Cardoso","Roraima","Brasil",9,"Brinquedos","791.66","Perecível",10,21,10,"4",2021,8,"Isabel Marques",25,20
+65,3,"Entregue","100.00","80.00","15.00",521,10,9,11,11,11,"Mendes do Amparo","Distrito Federal","Guam",10,"Eletrônicos","862.92","Não Perecível",11,26,11,"4",2023,9,"Ravy Mendes",21,13
+15,3,"Entregue","100.00","80.00","15.00",521,10,9,11,11,11,"Mendes do Amparo","Distrito Federal","Guam",10,"Eletrônicos","862.92","Não Perecível",11,26,11,"4",2023,9,"Ravy Mendes",21,13
+66,3,"Entregue","100.00","80.00","15.00",522,11,10,12,12,12,"Leão Verde","Goiás","Zâmbia",11,"Brinquedos","221.64","Perecível",12,9,12,"4",2021,10,"Bryan Andrade",61,0
+16,3,"Entregue","100.00","80.00","15.00",522,11,10,12,12,12,"Leão Verde","Goiás","Zâmbia",11,"Brinquedos","221.64","Perecível",12,9,12,"4",2021,10,"Bryan Andrade",61,0
+17,3,"Entregue","100.00","80.00","15.00",523,12,11,13,13,13,"Lopes de Silva","Rondônia","Porto Rico",12,"Alimentos","388.97","Não Perecível",13,20,11,"4",2023,11,"Hadassa Pinto",34,17
+67,3,"Entregue","100.00","80.00","15.00",523,12,11,13,13,13,"Lopes de Silva","Rondônia","Porto Rico",12,"Alimentos","388.97","Não Perecível",13,20,11,"4",2023,11,"Hadassa Pinto",34,17
+18,3,"Entregue","100.00","80.00","15.00",524,13,12,14,14,14,"Gomes da Mata","Mato Grosso do Sul","Omã",13,"Roupas","319.12","Perecível",14,4,3,"1",2024,12,"José Montenegro",29,35
+68,3,"Entregue","100.00","80.00","15.00",524,13,12,14,14,14,"Gomes da Mata","Mato Grosso do Sul","Omã",13,"Roupas","319.12","Perecível",14,4,3,"1",2024,12,"José Montenegro",29,35
+69,3,"Entregue","100.00","80.00","15.00",525,14,13,15,15,15,"da Mota","Ceará","Gâmbia",14,"Brinquedos","198.57","Perecível",15,13,1,"1",2024,13,"Liam da Luz",35,14
+19,3,"Entregue","100.00","80.00","15.00",525,14,13,15,15,15,"da Mota","Ceará","Gâmbia",14,"Brinquedos","198.57","Perecível",15,13,1,"1",2024,13,"Liam da Luz",35,14
+20,3,"Entregue","100.00","80.00","15.00",526,15,14,16,16,16,"Azevedo","Amazonas","Israel",15,"Roupas","817.35","Perecível",16,4,1,"1",2021,14,"Ana Carolina Vieira",35,23
+70,3,"Entregue","100.00","80.00","15.00",526,15,14,16,16,16,"Azevedo","Amazonas","Israel",15,"Roupas","817.35","Perecível",16,4,1,"1",2021,14,"Ana Carolina Vieira",35,23
+71,3,"Entregue","100.00","80.00","15.00",527,16,15,17,17,17,"da Mata","Goiás","Paraguai",16,"Roupas","717.12","Perecível",17,9,3,"1",2024,15,"Danilo Mendonça",63,4
+21,3,"Entregue","100.00","80.00","15.00",527,16,15,17,17,17,"da Mata","Goiás","Paraguai",16,"Roupas","717.12","Perecível",17,9,3,"1",2024,15,"Danilo Mendonça",63,4
+22,3,"Entregue","100.00","80.00","15.00",528,17,16,18,18,18,"da Conceição da Serra","Ceará","Macau",17,"Brinquedos","589.26","Perecível",18,4,6,"2",2020,16,"Miguel Pastor",50,28
+72,3,"Entregue","100.00","80.00","15.00",528,17,16,18,18,18,"da Conceição da Serra","Ceará","Macau",17,"Brinquedos","589.26","Perecível",18,4,6,"2",2020,16,"Miguel Pastor",50,28
+23,3,"Entregue","100.00","80.00","15.00",529,18,17,19,19,19,"Albuquerque","Mato Grosso do Sul","Samoa",18,"Brinquedos","845.54","Não Perecível",19,22,4,"2",2021,17,"Dr. Vitor Viana",53,31
+73,3,"Entregue","100.00","80.00","15.00",529,18,17,19,19,19,"Albuquerque","Mato Grosso do Sul","Samoa",18,"Brinquedos","845.54","Não Perecível",19,22,4,"2",2021,17,"Dr. Vitor Viana",53,31
+74,3,"Entregue","100.00","80.00","15.00",530,19,18,20,20,20,"Viana","Ceará","Andorra",19,"Roupas","822.99","Perecível",20,11,8,"3",2024,18,"Davi Pinto",32,5
+24,3,"Entregue","100.00","80.00","15.00",530,19,18,20,20,20,"Viana","Ceará","Andorra",19,"Roupas","822.99","Perecível",20,11,8,"3",2024,18,"Davi Pinto",32,5
+25,3,"Entregue","100.00","80.00","15.00",531,20,19,21,21,21,"Melo","Pernambuco","Sri Lanka",20,"Eletrônicos","451.81","Perecível",21,26,11,"4",2020,19,"Beatriz Moraes",38,17
+75,3,"Entregue","100.00","80.00","15.00",531,20,19,21,21,21,"Melo","Pernambuco","Sri Lanka",20,"Eletrônicos","451.81","Perecível",21,26,11,"4",2020,19,"Beatriz Moraes",38,17
+76,3,"Entregue","100.00","80.00","15.00",532,21,20,22,22,22,"Freitas da Prata","Sergipe","Ilhas Marshall",21,"Roupas","179.98","Perecível",22,28,4,"2",2023,20,"Bárbara da Mata",31,24
+26,3,"Entregue","100.00","80.00","15.00",532,21,20,22,22,22,"Freitas da Prata","Sergipe","Ilhas Marshall",21,"Roupas","179.98","Perecível",22,28,4,"2",2023,20,"Bárbara da Mata",31,24
+27,3,"Entregue","100.00","80.00","15.00",533,22,21,23,23,23,"Freitas","Amazonas","Palau",22,"Roupas","961.74","Perecível",23,21,2,"1",2024,21,"Carolina Albuquerque",62,1
+77,3,"Entregue","100.00","80.00","15.00",533,22,21,23,23,23,"Freitas","Amazonas","Palau",22,"Roupas","961.74","Perecível",23,21,2,"1",2024,21,"Carolina Albuquerque",62,1
+78,3,"Entregue","100.00","80.00","15.00",534,23,22,24,24,24,"Nascimento da Praia","Mato Grosso do Sul","São Marinho",23,"Eletrônicos","544.18","Perecível",24,25,5,"2",2020,22,"Ana Vitória Garcia",34,40
+28,3,"Entregue","100.00","80.00","15.00",534,23,22,24,24,24,"Nascimento da Praia","Mato Grosso do Sul","São Marinho",23,"Eletrônicos","544.18","Perecível",24,25,5,"2",2020,22,"Ana Vitória Garcia",34,40
+29,3,"Entregue","100.00","80.00","15.00",535,24,23,25,25,25,"Cavalcante Alegre","Minas Gerais","Albânia",24,"Alimentos","712.07","Perecível",25,18,10,"4",2020,23,"Ryan Castro",20,15
+79,3,"Entregue","100.00","80.00","15.00",535,24,23,25,25,25,"Cavalcante Alegre","Minas Gerais","Albânia",24,"Alimentos","712.07","Perecível",25,18,10,"4",2020,23,"Ryan Castro",20,15
+80,3,"Entregue","100.00","80.00","15.00",536,25,24,26,26,26,"Farias dos Dourados","Piauí","Ilha do Natal",25,"Eletrônicos","844.75","Não Perecível",26,16,9,"3",2021,24,"Sr. Benjamim Costela",40,30
+30,3,"Entregue","100.00","80.00","15.00",536,25,24,26,26,26,"Farias dos Dourados","Piauí","Ilha do Natal",25,"Eletrônicos","844.75","Não Perecível",26,16,9,"3",2021,24,"Sr. Benjamim Costela",40,30
+81,3,"Entregue","100.00","80.00","15.00",537,26,25,27,27,27,"Cassiano","Paraíba","Cuba",26,"Alimentos","667.88","Não Perecível",27,8,1,"1",2020,25,"Antônio Almeida",30,35
+31,3,"Entregue","100.00","80.00","15.00",537,26,25,27,27,27,"Cassiano","Paraíba","Cuba",26,"Alimentos","667.88","Não Perecível",27,8,1,"1",2020,25,"Antônio Almeida",30,35
+32,3,"Entregue","100.00","80.00","15.00",538,27,26,28,28,28,"Cunha Grande","Roraima","África do Sul",27,"Roupas","578.27","Não Perecível",28,16,9,"3",2021,26,"Bryan Mendes",30,6
+82,3,"Entregue","100.00","80.00","15.00",538,27,26,28,28,28,"Cunha Grande","Roraima","África do Sul",27,"Roupas","578.27","Não Perecível",28,16,9,"3",2021,26,"Bryan Mendes",30,6
+33,3,"Entregue","100.00","80.00","15.00",539,28,27,29,29,29,"Camargo das Pedras","Pernambuco","Emirados Árabes Unidos",28,"Alimentos","727.76","Não Perecível",29,3,10,"4",2023,27,"Ana Luiza Porto",52,19
+83,3,"Entregue","100.00","80.00","15.00",539,28,27,29,29,29,"Camargo das Pedras","Pernambuco","Emirados Árabes Unidos",28,"Alimentos","727.76","Não Perecível",29,3,10,"4",2023,27,"Ana Luiza Porto",52,19
+34,3,"Entregue","100.00","80.00","15.00",540,29,28,30,30,30,"Casa Grande da Serra","Acre","Tailândia",29,"Brinquedos","513.40","Perecível",30,26,3,"1",2021,28,"Jade Vieira",29,4
+84,3,"Entregue","100.00","80.00","15.00",540,29,28,30,30,30,"Casa Grande da Serra","Acre","Tailândia",29,"Brinquedos","513.40","Perecível",30,26,3,"1",2021,28,"Jade Vieira",29,4
+85,3,"Entregue","100.00","80.00","15.00",541,30,29,31,31,31,"Camargo das Pedras","Amazonas","Emirados Árabes Unidos",30,"Alimentos","533.25","Perecível",31,8,4,"2",2022,29,"Calebe da Paz",41,2
+35,3,"Entregue","100.00","80.00","15.00",541,30,29,31,31,31,"Camargo das Pedras","Amazonas","Emirados Árabes Unidos",30,"Alimentos","533.25","Perecível",31,8,4,"2",2022,29,"Calebe da Paz",41,2
+86,3,"Entregue","100.00","80.00","15.00",542,31,30,32,32,32,"Ferreira de Martins","Pernambuco","México",31,"Alimentos","549.10","Não Perecível",32,23,5,"2",2020,30,"Kamilly da Mota",62,36
+36,3,"Entregue","100.00","80.00","15.00",542,31,30,32,32,32,"Ferreira de Martins","Pernambuco","México",31,"Alimentos","549.10","Não Perecível",32,23,5,"2",2020,30,"Kamilly da Mota",62,36
+37,3,"Entregue","100.00","80.00","15.00",543,32,31,33,33,33,"Cavalcanti de Goiás","Paraíba","Tajiquistão",32,"Brinquedos","228.77","Perecível",33,24,2,"1",2024,31,"Felipe Farias",24,39
+87,3,"Entregue","100.00","80.00","15.00",543,32,31,33,33,33,"Cavalcanti de Goiás","Paraíba","Tajiquistão",32,"Brinquedos","228.77","Perecível",33,24,2,"1",2024,31,"Felipe Farias",24,39
+88,3,"Entregue","100.00","80.00","15.00",544,33,32,34,34,34,"Porto","Maranhão","Quirguizistão",33,"Brinquedos","671.24","Não Perecível",34,9,6,"2",2020,32,"Enzo Gabriel Freitas",18,19
+38,3,"Entregue","100.00","80.00","15.00",544,33,32,34,34,34,"Porto","Maranhão","Quirguizistão",33,"Brinquedos","671.24","Não Perecível",34,9,6,"2",2020,32,"Enzo Gabriel Freitas",18,19
+39,3,"Entregue","100.00","80.00","15.00",545,34,33,35,35,35,"Costa","Maranhão","Chipre",34,"Eletrônicos","807.79","Perecível",35,28,9,"3",2021,33,"Juan Barros",61,6
+89,3,"Entregue","100.00","80.00","15.00",545,34,33,35,35,35,"Costa","Maranhão","Chipre",34,"Eletrônicos","807.79","Perecível",35,28,9,"3",2021,33,"Juan Barros",61,6
+40,3,"Entregue","100.00","80.00","15.00",546,35,34,36,36,36,"Teixeira do Campo","Maranhão","Coreia do Sul",35,"Eletrônicos","177.80","Perecível",36,9,10,"4",2024,34,"Levi da Luz",32,11
+90,3,"Entregue","100.00","80.00","15.00",546,35,34,36,36,36,"Teixeira do Campo","Maranhão","Coreia do Sul",35,"Eletrônicos","177.80","Perecível",36,9,10,"4",2024,34,"Levi da Luz",32,11
+41,3,"Entregue","100.00","80.00","15.00",547,36,35,37,37,37,"Sales das Pedras","Paraná","Grécia",36,"Alimentos","384.29","Não Perecível",37,2,8,"3",2021,35,"Helena Moreira",64,18
+91,3,"Entregue","100.00","80.00","15.00",547,36,35,37,37,37,"Sales das Pedras","Paraná","Grécia",36,"Alimentos","384.29","Não Perecível",37,2,8,"3",2021,35,"Helena Moreira",64,18
+92,3,"Entregue","100.00","80.00","15.00",548,37,36,38,38,38,"Melo","Acre","Sri Lanka",37,"Brinquedos","807.74","Perecível",38,2,3,"1",2024,36,"Srta. Esther Ramos",56,10
+42,3,"Entregue","100.00","80.00","15.00",548,37,36,38,38,38,"Melo","Acre","Sri Lanka",37,"Brinquedos","807.74","Perecível",38,2,3,"1",2024,36,"Srta. Esther Ramos",56,10
+93,3,"Entregue","100.00","80.00","15.00",549,38,37,39,39,39,"Câmara","Paraíba","Coreia do Sul",38,"Eletrônicos","421.06","Perecível",39,16,12,"4",2020,37,"Luana Caldeira",37,11
+43,3,"Entregue","100.00","80.00","15.00",549,38,37,39,39,39,"Câmara","Paraíba","Coreia do Sul",38,"Eletrônicos","421.06","Perecível",39,16,12,"4",2020,37,"Luana Caldeira",37,11
+94,3,"Entregue","100.00","80.00","15.00",550,39,38,40,40,40,"Brito","Pará","Comores",39,"Roupas","134.98","Não Perecível",40,16,1,"1",2023,38,"Sra. Lara Cirino",51,22
+44,3,"Entregue","100.00","80.00","15.00",550,39,38,40,40,40,"Brito","Pará","Comores",39,"Roupas","134.98","Não Perecível",40,16,1,"1",2023,38,"Sra. Lara Cirino",51,22
+45,3,"Entregue","100.00","80.00","15.00",551,40,39,41,41,41,"Pacheco de da Luz","Pernambuco","Cazaquistão",40,"Brinquedos","368.61","Perecível",41,11,5,"2",2022,39,"Nicolas Ramos",26,17
+95,3,"Entregue","100.00","80.00","15.00",551,40,39,41,41,41,"Pacheco de da Luz","Pernambuco","Cazaquistão",40,"Brinquedos","368.61","Perecível",41,11,5,"2",2022,39,"Nicolas Ramos",26,17
+46,3,"Entregue","100.00","80.00","15.00",552,41,40,42,42,42,"Aparecida do Norte","São Paulo","África do Sul",41,"Alimentos","766.19","Perecível",42,1,1,"1",2021,40,"Apollo Brito",64,2
+96,3,"Entregue","100.00","80.00","15.00",552,41,40,42,42,42,"Aparecida do Norte","São Paulo","África do Sul",41,"Alimentos","766.19","Perecível",42,1,1,"1",2021,40,"Apollo Brito",64,2
+97,3,"Entregue","100.00","80.00","15.00",553,42,41,43,43,43,"Alves Paulista","Santa Catarina","Mônaco",42,"Eletrônicos","664.16","Não Perecível",43,3,11,"4",2022,41,"Davi Miguel Moraes",34,1
+47,3,"Entregue","100.00","80.00","15.00",553,42,41,43,43,43,"Alves Paulista","Santa Catarina","Mônaco",42,"Eletrônicos","664.16","Não Perecível",43,3,11,"4",2022,41,"Davi Miguel Moraes",34,1
+98,3,"Entregue","100.00","80.00","15.00",554,43,42,44,44,44,"Souza dos Dourados","Mato Grosso","Guiné-Bissau",43,"Alimentos","465.01","Perecível",44,14,11,"4",2024,42,"Erick Casa Grande",48,30
+48,3,"Entregue","100.00","80.00","15.00",554,43,42,44,44,44,"Souza dos Dourados","Mato Grosso","Guiné-Bissau",43,"Alimentos","465.01","Perecível",44,14,11,"4",2024,42,"Erick Casa Grande",48,30
+99,3,"Entregue","100.00","80.00","15.00",555,44,43,45,45,45,"Montenegro de Goiás","Alagoas","Groenlândia",44,"Brinquedos","217.62","Não Perecível",45,19,10,"4",2023,43,"Anthony Gabriel da Luz",50,21
+49,3,"Entregue","100.00","80.00","15.00",555,44,43,45,45,45,"Montenegro de Goiás","Alagoas","Groenlândia",44,"Brinquedos","217.62","Não Perecível",45,19,10,"4",2023,43,"Anthony Gabriel da Luz",50,21
+100,3,"Entregue","100.00","80.00","15.00",556,45,44,46,46,46,"Machado","Maranhão","Bermudas",45,"Alimentos","459.83","Não Perecível",46,24,1,"1",2020,44,"João Miguel Garcia",50,28
+50,3,"Entregue","100.00","80.00","15.00",556,45,44,46,46,46,"Machado","Maranhão","Bermudas",45,"Alimentos","459.83","Não Perecível",46,24,1,"1",2020,44,"João Miguel Garcia",50,28
+51,3,"Entregue","100.00","80.00","15.00",557,46,45,47,47,47,"Costa das Pedras","Ceará","Cazaquistão",46,"Roupas","857.62","Perecível",47,20,2,"1",2020,45,"Dra. Ana Barbosa",33,1
+101,3,"Entregue","100.00","80.00","15.00",557,46,45,47,47,47,"Costa das Pedras","Ceará","Cazaquistão",46,"Roupas","857.62","Perecível",47,20,2,"1",2020,45,"Dra. Ana Barbosa",33,1
+102,3,"Entregue","100.00","80.00","15.00",558,47,46,48,48,48,"Silva","Amapá","Tonga",47,"Roupas","296.40","Perecível",48,6,3,"1",2022,46,"Maria Sophia Souza",54,11
+52,3,"Entregue","100.00","80.00","15.00",558,47,46,48,48,48,"Silva","Amapá","Tonga",47,"Roupas","296.40","Perecível",48,6,3,"1",2022,46,"Maria Sophia Souza",54,11
+53,3,"Entregue","100.00","80.00","15.00",559,48,47,49,49,49,"Azevedo","Espírito Santo","Estados Unidos",48,"Alimentos","227.30","Perecível",49,18,1,"1",2024,47,"Dr. Luiz Felipe da Conceição",51,22
+103,3,"Entregue","100.00","80.00","15.00",559,48,47,49,49,49,"Azevedo","Espírito Santo","Estados Unidos",48,"Alimentos","227.30","Perecível",49,18,1,"1",2024,47,"Dr. Luiz Felipe da Conceição",51,22
+54,3,"Entregue","100.00","80.00","15.00",560,49,48,50,50,50,"das Neves de Melo","Bahia","República Centro-Africana",49,"Eletrônicos","524.80","Não Perecível",50,28,5,"2",2021,48,"Cauê Vargas",38,31
+104,3,"Entregue","100.00","80.00","15.00",560,49,48,50,50,50,"das Neves de Melo","Bahia","República Centro-Africana",49,"Eletrônicos","524.80","Não Perecível",50,28,5,"2",2021,48,"Cauê Vargas",38,31
