@@ -222,12 +222,12 @@ def inserir_fato_entrega(qtd=50):
         id_regiao = regioes[i % len(regioes)]
         id_tempo = tempos[i % len(tempos)]
 
-        # Definir valores não aleatórios (exemplo: fixos ou calculados)
-        valor_frete = 100.00
-        custo_entrega = 80.00
-        tempo_entrega = 3
-        status_entrega = "Entregue"
-        distancia_km = 15.0
+        # Valores aleatórios para as métricas de entrega
+        valor_frete = fake.random_number(digits=3, fix_len=True) + 20.0  # Valor do frete entre 20 e 999
+        custo_entrega = fake.random_number(digits=2, fix_len=True) + 5.0  # Custo entre 5 e 99
+        tempo_entrega = fake.random_int(min=1, max=7)  # Tempo de entrega entre 1 e 7 dias
+        status_entrega = fake.random_element(elements=("Entregue", "Em Trânsito", "Aguardando"))  # Status da entrega
+        distancia_km = fake.random_number(digits=3, fix_len=True) + 1.0  # Distância entre 1 e 999 km
 
         cur.execute(
             """
